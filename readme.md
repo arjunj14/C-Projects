@@ -47,7 +47,7 @@ This project is open-source and available under the [MIT LICENSE](LICENSE).
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
 ## Author
-- **Arjun J**: Replace this with your name or GitHub username.
+- **Arjun J**
 
 ---
 
